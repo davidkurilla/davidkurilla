@@ -5,7 +5,7 @@
 - 📫 How to reach me:
 - Email: davidkurilla03@gmail.com
 - 😄 Pronouns: She/They
-- ⚡ Fun fact: I am a bass player :D
+- ⚡ Fun fact: I play guitar and bass :D
 
 <!---
 davidkurilla/davidkurilla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
