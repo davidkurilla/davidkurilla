@@ -2,8 +2,7 @@
 - 👀 I’m interested in coding, gaming, art, game development, and music production.
 - 🌱 I’m currently learning Rust.
 - 💞️ I’m looking to collaborate on game, app, and web development projects.
-- 📫 How to reach me:
-- Email: davidkurilla03@gmail.com
+- 📫 How to reach me: davidkurilla03@gmail.com
 - 😄 Pronouns: She/They
 - ⚡ Fun fact: I play guitar and bass :D
 
