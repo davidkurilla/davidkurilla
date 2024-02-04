@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Rust.
 - 💞️ I’m looking to collaborate on game, app, and web development projects.
 - 📫 How to reach me: davidkurilla03@gmail.com
-- 😄 Pronouns: She/They
+- 😄 Pronouns: He/They
 - ⚡ Fun fact: I play guitar and bass :D
 
 <!---
